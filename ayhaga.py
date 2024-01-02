@@ -1,9 +1,13 @@
-def greet():
-    print("Hello from the Main Branch")
 
-def calculate(a, b):
-    return a + b
-
-print(greet())
-result = calculate(3, 4)
-print(f"Calculation result: {result}")
+def bomm():
+    print('lokdmsa')
+def ldsadas():
+    print('kdasokdk')
+import numpy as np
+print(np.arange(1,10))
+k = 0
+j = 2
+print(k)
+print(j)
+print(np.arange(1,10))
+print(np.arange(1,10))
