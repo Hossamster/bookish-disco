@@ -1,11 +1,9 @@
-# main.py in Feature Branch
-
 def greet():
-    print("Greetings from the Feature Branch")
+    print("Hello from the Main Branch")
 
 def calculate(a, b):
-    return a * b  # Changed operation from + to *
+    return a + b
 
 print(greet())
-result = calculate(2, 5)
-print(f"Result of operation: {result}")
+result = calculate(3, 4)
+print(f"Calculation result: {result}")
