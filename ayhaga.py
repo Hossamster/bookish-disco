@@ -1,13 +1,13 @@
 def bomm():
-    print('Updated in boom branch')  # Change the print statement
+    print('Different message')  # Changed message
 def ldsadas():
-    print('kdasokdk')
+    print('Another different message')  # Changed message
 import numpy as np
-print(np.arange(1, 20))  # Change the range of np.arange
+print(np.arange(2, 20))  # Changed the range of np.arange
 
-k = 10  # Change the value of k
-j = 5   # Change the value of j
+k = 5  # Changed the value of k
+j = 10  # Changed the value of j
 print(k)
 print(j)
-print(np.arange(5, 15))  # Change the range of np.arange
-print(np.arange(1, 10))
+print(np.arange(3, 15))  # Changed the range of np.arange
+print(np.arange(4, 20))  # Changed the range of np.arange
