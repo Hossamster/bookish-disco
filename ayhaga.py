@@ -1,5 +1,3 @@
-# main.py in Main Branch
-
 def greet():
     print("Hello from the Main Branch")
 
