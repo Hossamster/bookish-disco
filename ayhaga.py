@@ -1,12 +1,12 @@
-def bomm():
-    print('lokdmsa')
-def ldsadas():
-    print('kdasokdk')
 import numpy as np
-print(np.arange(1,10))
-k = 0
-j =2 
-print(k)
-print(j)
-print(np.arange(1,10))
-print(np.arange(1,10))
+import matplotlib.pyplot as plt
+import seaborn as sns 
+import pandas as pd
+
+df = pd.read_csv(r'')
+df.head()
+def boom():
+    print("232")
+
+def letsgo():
+    return boom()
